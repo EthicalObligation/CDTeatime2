@@ -1,0 +1,13 @@
+name = "CDTeatime"
+author = "EthicalObligation"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e551518cfd5d02a1d6b177328cc4c6876f67042777a7b8a306331f7fb06860dc"
+
+[versions]
+forge = "43.0.0"
+minecraft = "1.19.2"
