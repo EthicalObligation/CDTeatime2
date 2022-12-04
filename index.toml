@@ -21,6 +21,11 @@ hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "5b60c5cbc6b6a210856c49c73acf35076edaf484bc2387a7a9dea6d786c60de3"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "da526f503d2a785c10a47c6f1a5a0b5abe097fd8a7e5a4812e1fdb91127b646f"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
 metafile = true
 
 [[files]]
