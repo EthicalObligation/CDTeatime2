@@ -41,6 +41,21 @@ hash = "a97c162978d3d213bb65294224522a8ab28e76bea89caa9759cf6231e39c0992"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "c40ef9fab130096f9c7bd5ef0be8ed200dd20516fa35a283c5fab6fde5fb5366"
+metafile = true
+
+[[files]]
+file = "mods/jer-integration.pw.toml"
+hash = "9c8ae0fc0f501fa07bc5cbdedd24a89e7ad3774eb20eae8697aa35c2acf49e66"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "e2647d3d7fc1f0afe27f57f8bdc4a365ad9bb770f9502844630458ceab2ade99"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "da526f503d2a785c10a47c6f1a5a0b5abe097fd8a7e5a4812e1fdb91127b646f"
 metafile = true
