@@ -16,6 +16,11 @@ hash = "1400f0a5f428367609794c7fe3fb825163cbb6bf5b6715dff5fbfe5f02c078d2"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "4e8261b0ace8bcd2f47adb01feee8583fe5f199050522feadfef02055a266734"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
 metafile = true
@@ -53,4 +58,9 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "4219d83c6500ff292b03f2ca7ec5c7f3921f5fbc12ba09555fa3ddd174dcb548"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
+hash = "7f11c7bbaa61da97a115bf6c0cce0adf34b7bf2362ac404a3a505cf70252fc7c"
 metafile = true
