@@ -61,11 +61,6 @@ hash = "e2647d3d7fc1f0afe27f57f8bdc4a365ad9bb770f9502844630458ceab2ade99"
 metafile = true
 
 [[files]]
-file = "mods/lazy-dfu-forge.pw.toml"
-hash = "da526f503d2a785c10a47c6f1a5a0b5abe097fd8a7e5a4812e1fdb91127b646f"
-metafile = true
-
-[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
 metafile = true
