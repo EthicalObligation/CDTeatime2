@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "cd681b8802c4ca5a2d9c385dcbd2f77e331794a1dead878b70384cc0a50011a4"
+hash = "05e3fed21be4a9995943921a24de8d47358f9d07561b97c6e009c53ddd3bd103"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c40ef9fab130096f9c7bd5ef0be8ed200dd20516fa35a283c5fab6fde5fb5366"
+hash = "bea89faf335c7c8cbb0e37c223770d98d73a420738745ec47700ed97857df871"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "4219d83c6500ff292b03f2ca7ec5c7f3921f5fbc12ba09555fa3ddd174dcb548"
+hash = "81e4b9cf08e43c6b17479fdd416e6ca4cc9b2a169f89a312e8d321620a88f0cc"
 metafile = true
 
 [[files]]
