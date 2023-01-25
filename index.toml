@@ -16,6 +16,11 @@ hash = "35d5951cb8ace2f79f222cf9145498d5702fe7612413241523c1da04bc3757da"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "3e698ffbc78860ae3119156bacb6ab56ebcf1c11552a7fb3a8b16df85d2d5a59"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "1400f0a5f428367609794c7fe3fb825163cbb6bf5b6715dff5fbfe5f02c078d2"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "4e8261b0ace8bcd2f47adb01feee8583fe5f199050522feadfef02055a266734"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
 metafile = true
 
 [[files]]
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
