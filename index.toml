@@ -94,3 +94,13 @@ metafile = true
 file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
 hash = "7f11c7bbaa61da97a115bf6c0cce0adf34b7bf2362ac404a3a505cf70252fc7c"
 metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "6a37f93609d5dc95808f5bc477a6be4e6b3623b9a438b1a275e436ab1f7fb63f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "17a2b4189e483db332f550a133a153aa841d666ab7cf2923ae5573f60d25979f"
+metafile = true
