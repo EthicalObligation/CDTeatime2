@@ -5,5 +5,5 @@ side = "client"
 [download]
 url = "https://github.com/EthicalObligation/CDTeatime2/raw/master/tl_skin_cape_forge_1.19_1.19.2-1.28.jar"
 
-hash = "sha256"
+hash-format = "sha256"
 hash = "05823b090e09bec7d2710ff800a23028e0b00ca33b34bafcd10700c4eb8cc00c"
