@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "cd681b8802c4ca5a2d9c385dcbd2f77e331794a1dead878b70384cc0a50011a4"
+hash = "9332d7895d9a9d8827aa4de02b1c96884fec9402cc66bd90e64f64bfc0c5f814"
 metafile = true
 
 [[files]]
@@ -46,6 +46,11 @@ hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "811d49c699295f3bd32dd8ecf3b7f2d781f19c42d708df823b83c4e3af72923b"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "5b60c5cbc6b6a210856c49c73acf35076edaf484bc2387a7a9dea6d786c60de3"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "a97c162978d3d213bb65294224522a8ab28e76bea89caa9759cf6231e39c0992"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "cf38d72f21c6db961e2de93cfccdc30c97997ec9a1b5185af57158692e7e856c"
 metafile = true
 
 [[files]]
