@@ -41,6 +41,11 @@ hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "062f5241383a009076c9534d982fe9c594fd1771c5f890257134aced6e8cf898"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
 metafile = true
