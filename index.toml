@@ -106,6 +106,11 @@ hash = "7f11c7bbaa61da97a115bf6c0cce0adf34b7bf2362ac404a3a505cf70252fc7c"
 metafile = true
 
 [[files]]
+file = "mods/skins.pw.toml"
+hash = "3bbfb671ef6898c5e0e1049481bc263577bd376b4fc3c68758d6d91d3530db78"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "6a37f93609d5dc95808f5bc477a6be4e6b3623b9a438b1a275e436ab1f7fb63f"
 metafile = true
@@ -114,3 +119,7 @@ metafile = true
 file = "mods/sophisticated-core.pw.toml"
 hash = "17a2b4189e483db332f550a133a153aa841d666ab7cf2923ae5573f60d25979f"
 metafile = true
+
+[[files]]
+file = "tl_skin_cape_forge_1.19_1.19.2-1.28.jar"
+hash = "05823b090e09bec7d2710ff800a23028e0b00ca33b34bafcd10700c4eb8cc00c"
