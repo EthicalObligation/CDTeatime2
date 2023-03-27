@@ -41,6 +41,11 @@ hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
 metafile = true
 
 [[files]]
+file = "mods/dynmap-blockgen.pw.toml"
+hash = "1e797c996220486f3cf8345a7b55c647073724b3a23bea2c6323342a40c5e659"
+metafile = true
+
+[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "062f5241383a009076c9534d982fe9c594fd1771c5f890257134aced6e8cf898"
 metafile = true

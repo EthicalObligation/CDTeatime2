@@ -1,0 +1,9 @@
+name = "Dynmap Block Generator"
+filename = "DynmapBlockScan-3.4-SNAPSHOT-forge-1.19.jar"
+side = "server"
+
+[download]
+url = "https://mikeprimm.com/dynmap/builds/DynmapBlockScan/DynmapBlockScan-3.4-SNAPSHOT-forge-1.19.jar"
+
+hash-format = "sha1"
+hash = "e41af882999df32451c59fd1a91ddc4e0a859773"
