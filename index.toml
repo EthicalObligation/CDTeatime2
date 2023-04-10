@@ -131,5 +131,10 @@ hash = "17a2b4189e483db332f550a133a153aa841d666ab7cf2923ae5573f60d25979f"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "176eda94ad465f880e240ef29685dfd9b21aac18c1606c8d526b9dcad4a232f4"
+metafile = true
+
+[[files]]
 file = "tl_skin_cape_forge_1.19_1.19.2-1.28.jar"
 hash = "05823b090e09bec7d2710ff800a23028e0b00ca33b34bafcd10700c4eb8cc00c"
